@@ -262,7 +262,6 @@ int main()
 		for (int i = 0; i < I; ++i) cout << d[a_sum + i] << " "; // вывод последнего слоя K
 	}
 
-	system("python graph.py");
 
 	delete[] r_linspace;
 	delete[] t_linspace;
