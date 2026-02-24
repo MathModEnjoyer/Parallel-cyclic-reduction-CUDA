@@ -14,7 +14,7 @@
 
 График ускорения:
 
-<img width="761" height="559" alt="{39D0F5F1-7B09-44A7-86BA-718B4A2DF1FC}" src="https://github.com/user-attachments/assets/973db081-b77f-4e63-9cdc-a41e0bb0772a" />
+<img width="600" alt="{39D0F5F1-7B09-44A7-86BA-718B4A2DF1FC}" src="https://github.com/user-attachments/assets/973db081-b77f-4e63-9cdc-a41e0bb0772a" />
 
 Максимальное ускорение параллельной реализации 
 составило ~6,52 при решении системы из 2^23 - 1 уравнений.
