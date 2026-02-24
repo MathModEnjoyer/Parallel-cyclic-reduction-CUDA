@@ -10,7 +10,7 @@
 
 График времени работы последовательной и параллельной реализаций:
 
-<img width="400" alt="{E0E74023-D298-423F-8CF8-D0C731EF1F6D}" src="https://github.com/user-attachments/assets/761808b2-9cbc-47c6-bcae-384d02c190b0" />
+<img width="200" alt="{E0E74023-D298-423F-8CF8-D0C731EF1F6D}" src="https://github.com/user-attachments/assets/761808b2-9cbc-47c6-bcae-384d02c190b0" />
 
 График ускорения:
 
