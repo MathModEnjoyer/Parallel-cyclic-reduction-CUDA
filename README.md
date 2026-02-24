@@ -2,7 +2,28 @@
 Реализация параллельного алгоритма метода циклической редукции с использованием технологии CUDA. Ограничение на размерность системы – двойка, возведённая в степень, минус один.
 
 Реализации алгоритма запускались на следующей конфигурации:
-<img width="600" alt="{ABA4EB4F-A1BD-42CD-A7F2-6BDEE78DA2D2}" src="https://github.com/user-attachments/assets/e9724e8d-b947-438b-8805-03e09568122f" />
+<table>
+  <thead>
+    <tr>
+      <th align="left">Устройство</th>
+      <th align="left">Описание</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Центральный процессор</b></td>
+      <td>Intel Core i5-12450H, 8 ядер, 2.0 GHz</td>
+    </tr>
+    <tr>
+      <td><b>Оперативная память</b></td>
+      <td>16 GB DDR4, 3200 MHz</td>
+    </tr>
+    <tr>
+      <td><b>Графический процессор</b></td>
+      <td>Nvidia GeForce RTX 4050 Laptop, 2560 CUDA ядер, 1605-2370 MHz, 6 GB GDDR6</td>
+    </tr>
+  </tbody>
+</table>
 
 Для компиляции кода на CPU использовался компилятор GCC 13.1.0. 
 Для компиляции кода на GPU использовался компилятор NVIDIA CUDA compiler driver NVCC для CUDA 
